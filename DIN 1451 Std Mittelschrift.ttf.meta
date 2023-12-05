@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92c9ddd4a7f84db4fb832b405069ff49
+timeCreated: 1531723862
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN 1451 Std
+  fontNames:
+  - DIN 1451 Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
